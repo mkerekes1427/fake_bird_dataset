@@ -220,3 +220,37 @@ FROM
 group by camera
 order by num_photographed DESC;
 */
+
+
+-- -----------------------------------------Break------------------------------------ --
+
+-- Find all one word bird names aka no spaces. (Technically, Cardinal should be Northen Cardinal.)
+
+/*
+SELECT 
+    name
+FROM
+    bird_species
+WHERE
+    name NOT LIKE '% %'; 
+*/
+
+--   --------------------------------Break-------------------------------------
+
+-- Show blue jay observation counts per year in Maine.
+
+/*
+SELECT 
+    YEAR(o.observation_date) AS observation_year,
+    SUM(o.species_count) AS blue_jay_number
+FROM
+    observations o
+        JOIN
+    bird_species s ON o.bird_id = s.id
+        JOIN
+    areas a ON o.area_id = a.id
+WHERE
+    a.state = 'Maine'
+GROUP BY observation_year
+ORDER BY observation_year;
+*/
