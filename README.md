@@ -4,7 +4,7 @@ state of New Jersey or an unrealistic bird count being observed. The data was sh
 
 The website ebird.org is a place where bird enthusiasts can go and report observations of birds. They can report things like species seen, counts for each species, location name, date, etc. Since I don't have access to their real data, I decided to make a mini relational database schema of my own--although it's fake--to display my MySQL skills. I tried to imagine what ebird's actual database structure would look like, what kinds of information it would contain, and then tried to create something similar.
 
-There are three tables: observations, bird_species, and areas. The observations table is the main table and has an observation id, bird_id, and area_id, which link to the ids in the bird_species and areas tables. I decided to upload my MySQL script file which contains all the queries I run, and I uploaded the outputs of each query too, contained within this repository for you to see the results of each output. 
+There are three tables: observations, bird_species, and areas. The observations table is the main table and has an observation id, bird_id, and area_id, which link to the ids in the bird_species and areas tables. I decided to upload my MySQL script file which contains all the queries I ran, and I'll upload a link to a video that shows the outputs of each query too.
 
 The observations table had close to 8400 records, with 301 unique observation ids.
 
