@@ -6,4 +6,6 @@ The website ebird.org is a place where bird enthusiasts can go and report observ
 
 There are three tables: observations, bird_species, and areas. The observations table is the main table and has an observation id, bird_id, and area_id, which link to the ids in the bird_species and areas tables. I decided to upload my MySQL script file which contains all the queries I run, and I uploaded the outputs of each query too, contained within this repository for you to see the results of each output. 
 
+The observations table had close to 8400 records, with 301 unique observation ids.
+
 I'd like to shoutout Alex the Analyst and his YouTube channel for inspiring me to have the idea of writing my own MySQL scripts for the sake of portfolio experience.
