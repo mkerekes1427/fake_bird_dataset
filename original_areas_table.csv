@@ -1,0 +1,215 @@
+id,land_name,protected,state
+1,"City Park 1",FALSE,Michigan
+2,"City Park 2",FALSE,Arkansas
+3,"City Park 3",FALSE,"New Mexico"
+4,"City Park 4",FALSE,Wisconsin
+5,"City Park 5",FALSE,Arkansas
+6,"City Park 6",FALSE,Maryland
+7,"City Park 7",FALSE,Washington
+8,"City Park 8",TRUE,Florida
+9,"City Park 9",TRUE,Maine
+10,"City Park 10",TRUE,"New Jersey"
+11,"City Park 11",FALSE,California
+12,"City Park 12",FALSE,Kansas
+13,"City Park 13",FALSE,Ohio
+14,"City Park 14",FALSE,Utah
+15,"City Park 15",TRUE,Texas
+16,"City Park 16",FALSE,Maryland
+17,"City Park 17",FALSE,Utah
+18,"City Park 18",TRUE,Virginia
+19,"City Park 19",TRUE,"Rhode Island"
+20,"City Park 20",FALSE,Missouri
+21,"City Park 21",FALSE,Indiana
+22,"City Park 22",TRUE,"Rhode Island"
+23,"City Park 23",TRUE,Pennsylvania
+24,"City Park 24",TRUE,Louisianna
+25,"City Park 25",FALSE,Oregon
+26,"City Park 26",TRUE,"New Jersey"
+27,"City Park 27",FALSE,Michigan
+28,"City Park 28",TRUE,"New Jersey"
+29,"City Park 29",FALSE,"South Dakota"
+30,"City Park 30",TRUE,Nevada
+31,"City Park 31",FALSE,Kentucky
+32,"City Park 32",TRUE,Maine
+33,"City Park 33",FALSE,Nevada
+34,"City Park 34",FALSE,Oklahoma
+35,"City Park 35",FALSE,Oregon
+36,"City Park 36",FALSE,Washington
+37,"City Park 37",TRUE,"New York"
+38,"City Park 38",FALSE,"South Carolina"
+39,"City Park 39",FALSE,Oklahoma
+40,"City Park 40",TRUE,Alabama
+41,"City Park 41",FALSE,Washington
+42,"City Park 42",TRUE,"New Jersey"
+43,"City Park 43",FALSE,"New York"
+44,"City Park 44",FALSE,Minnesota
+45,"City Park 45",FALSE,Arizona
+46,"City Park 46",FALSE,"New Hampshire"
+47,"City Park 47",TRUE,Texas
+48,"City Park 48",TRUE,Alaska
+49,"City Park 49",FALSE,Washington
+50,"City Park 50",TRUE,Virginia
+51,"City Park 51",TRUE,Florida
+52,"City Park 52",FALSE,Nebraska
+53,"City Park 53",TRUE,Texas
+54,"City Park 54",TRUE,Hawaii
+55,"City Park 55",TRUE,Florida
+56,"City Park 56",FALSE,"New Mexico"
+57,"City Park 57",FALSE,Nebraska
+58,"City Park 58",TRUE,Hawaii
+59,"City Park 59",TRUE,Pennsylvania
+60,"City Park 60",FALSE,Montana
+61,"City Park 61",TRUE,"North Dakota"
+62,"City Park 62",FALSE,Minnesota
+63,"City Park 63",FALSE,Minnesota
+64,"City Park 64",FALSE,"New York"
+65,"City Park 65",FALSE,Arkansas
+66,"City Park 66",FALSE,Indiana
+67,"City Park 67",TRUE,Florida
+68,"City Park 68",FALSE,Minnesota
+69,"City Park 69",FALSE,Indiana
+70,"City Park 70",TRUE,California
+71,"City Park 71",FALSE,Kentucky
+72,"City Park 72",FALSE,Ohio
+73,"City Park 73",TRUE,Pennsylvania
+74,"City Park 74",TRUE,"New Jersey"
+75,"City Park 75",FALSE,"South Carolina"
+76,"City Park 76",TRUE,"New Jersey"
+77,"City Park 77",FALSE,"New Mexico"
+78,"City Park 78",TRUE,"Rhode Island"
+79,"City Park 79",FALSE,Minnesota
+80,"City Park 80",TRUE,Alaska
+81,"City Park 81",FALSE,Ohio
+82,"City Park 82",FALSE,California
+83,"City Park 83",TRUE,Pennsylvania
+84,"City Park 84",TRUE,"Rhode Island"
+85,"City Park 85",FALSE,Vermont
+86,"City Park 86",FALSE,Nebraska
+87,"City Park 87",FALSE,Wisconsin
+88,"City Park 88",FALSE,Arizona
+89,"City Park 89",FALSE,Indiana
+90,"City Park 90",TRUE,Mississippi
+91,"City Park 91",FALSE,Washington
+92,"City Park 92",FALSE,California
+93,"City Park 93",FALSE,Idaho
+94,"City Park 94",TRUE,Texas
+95,"City Park 95",FALSE,Ohio
+96,"City Park 96",FALSE,Arizona
+97,"City Park 97",TRUE,Nevada
+98,"City Park 98",TRUE,"Rhode Island"
+99,"City Park 99",FALSE,"South Carolina"
+100,"City Park 100",TRUE,Nevada
+101,"State Park 1",TRUE,Wisconsin
+102,"State Park 2",FALSE,Missouri
+103,"State Park 3",FALSE,Oregon
+104,"State Park 4",TRUE,Florida
+105,"State Park 5",FALSE,Idaho
+106,"State Park 6",TRUE,Mississippi
+107,"State Park 7",FALSE,Montana
+108,"State Park 8",FALSE,Wisconsin
+109,"State Park 9",TRUE,"Rhode Island"
+110,"State Park 10",TRUE,Texas
+111,"State Park 11",FALSE,Illinois
+112,"State Park 12",TRUE,"Rhode Island"
+113,"State Park 13",TRUE,Wisconsin
+114,"State Park 14",FALSE,Maryland
+115,"State Park 15",FALSE,Kentucky
+116,"State Park 16",FALSE,Oregon
+117,"State Park 17",TRUE,"New Jersey"
+118,"State Park 18",TRUE,Wisconsin
+119,"State Park 19",FALSE,Illinois
+120,"State Park 20",TRUE,Texas
+121,"State Park 21",FALSE,Montana
+122,"State Park 22",FALSE,"New Mexico"
+123,"State Park 23",TRUE,Tennessee
+124,"State Park 24",FALSE,Idaho
+125,"State Park 25",FALSE,"New York"
+126,"State Park 26",TRUE,Alaska
+127,"State Park 27",FALSE,Idaho
+128,"State Park 28",TRUE,California
+129,"State Park 29",FALSE,Minnesota
+130,"State Park 30",TRUE,"Rhode Island"
+131,"State Park 31",TRUE,California
+132,"State Park 32",FALSE,Washington
+133,"State Park 33",FALSE,"New Hampshire"
+134,"State Park 34",FALSE,"New York"
+135,"State Park 35",TRUE,Louisianna
+136,"National Park 1",FALSE,Kentucky
+137,"National Park 2",FALSE,"New Hampshire"
+138,"National Park 3",FALSE,"South Carolina"
+139,"National Park 4",FALSE,Kentucky
+140,"National Park 5",FALSE,Idaho
+141,"National Park 6",TRUE,Texas
+142,"National Park 7",TRUE,Louisianna
+143,"National Park 8",FALSE,"New Hampshire"
+144,"National Park 9",FALSE,Nebraska
+145,"National Park 10",FALSE,Ohio
+146,"National Park 11",TRUE,Alaska
+147,"National Park 12",FALSE,Minnesota
+148,"National Park 13",FALSE,Texas
+149,"National Park 14",FALSE,"New Hampshire"
+150,"National Park 15",TRUE,"Rhode Island"
+151,"Beach 1",TRUE,Mississippi
+152,"Beach 2",TRUE,California
+153,"Beach 3",TRUE,"New Jersey"
+154,"Lake 1",TRUE,Texas
+155,"Lake 2",FALSE,Arizona
+156,"Lake 3",TRUE,"North Dakota"
+157,"Lake 4",FALSE,Ohio
+158,"Lake 5",TRUE,Tennessee
+159,"Lake 6",FALSE,Utah
+160,"Lake 7",TRUE,"New Jersey"
+161,"Lake 8",TRUE,Louisianna
+162,"Lake 9",FALSE,"South Carolina"
+163,"Lake 10",FALSE,Arkansas
+164,"Lake 11",TRUE,Texas
+165,"Lake 12",TRUE,Louisianna
+166,"Lake 13",FALSE,Nebraska
+167,"Lake 14",FALSE,Oregon
+168,"Lake 15",TRUE,"New Jersey"
+169,"Lake 16",TRUE,"New Jersey"
+170,"Lake 17",FALSE,Vermont
+171,"Lake 18",FALSE,Indiana
+172,"Lake 19",TRUE,Tennessee
+173,"Lake 20",TRUE,Louisianna
+174,"Lake 21",TRUE,"New Jersey"
+175,"Lake 22",TRUE,Maine
+176,"Mountain 1",TRUE,"Rhode Island"
+177,"Mountain 2",TRUE,"New Jersey"
+178,"Mountain 3",FALSE,Washington
+179,"Mountain 4",FALSE,Oklahoma
+180,"Mountain 5",TRUE,"New Jersey"
+181,"Mountain 6",TRUE,Hawaii
+182,"Mountain 7",FALSE,Kentucky
+183,"Mountain 8",FALSE,Utah
+184,"Mountain 9",FALSE,Arizona
+185,"Mountain 10",TRUE,Nevada
+186,"Mountain 11",FALSE,Missouri
+187,"Mountain 12",TRUE,Maine
+188,"Mountain 13",TRUE,Alaska
+189,"Mountain 14",FALSE,Nebraska
+190,"Mountain 15",FALSE,"New York"
+191,"Mountain 16",FALSE,Arkansas
+192,"Mountain 17",TRUE,Maine
+193,"Wetlands 1",FALSE,Texas
+194,"Wetlands 2",FALSE,Idaho
+195,"Wetlands 3",TRUE,Louisianna
+196,"Wetlands 4",FALSE,Oklahoma
+197,"Wetlands 5",FALSE,"New Mexico"
+198,"Wetlands 6",FALSE,Idaho
+199,"Wetlands 7",FALSE,Montana
+200,"Desert 1",TRUE,"New Jersey"
+201,"Desert 2",FALSE,"New Mexico"
+202,"Desert 3",TRUE,Maine
+203,"Desert 4",FALSE,"New Hampshire"
+204,"Urban City 1",TRUE,"New York"
+205,"Urban City 2",TRUE,Texas
+206,"Urban City 3",FALSE,Michigan
+207,"Urban City 4",FALSE,"New York"
+208,"Urban City 5",TRUE,Alabama
+209,"Urban City 6",TRUE,"Rhode Island"
+210,"Urban City 7",FALSE,California
+211,"Urban City 8",FALSE,Montana
+212,"Urban City 9",FALSE,Washington
+213,"Urban City 10",TRUE,Alaska
+214,"Urban City 11",TRUE,Texas

@@ -1,0 +1,194 @@
+id,name,endangered,flight_speed,weight_ounces,species_population
+1,"Magnolia Warbler",FALSE,53.40,8.26,76663
+2,"Golden Eagle",FALSE,29.00,10.73,37522
+3,"Common Sandpiper",TRUE,20.60,6.52,84814
+4,"Sedge Warbler",TRUE,44.10,5.76,28723
+5,"Hermit Thrush",TRUE,16.20,14.48,15245
+6,"Caspian Tern",FALSE,28.20,12.33,98584
+7,"Grey Catbird",FALSE,38.40,13.90,86035
+8,"Canada Warbler",FALSE,48.60,7.45,46169
+9,"Red-shouldered Hawk",FALSE,32.70,12.19,79313
+10,"Pine Warbler",FALSE,39.10,11.99,36828
+11,"Peregrine Falcon",FALSE,20.10,6.63,34312
+12,Dunlin,TRUE,11.50,9.19,31251
+13,"Gull-billed Tern",TRUE,31.60,6.05,2001
+14,"European Robin",FALSE,49.70,5.49,72029
+15,"Common Loon",FALSE,44.80,12.01,14897
+16,"Mottled Duck",TRUE,35.90,13.14,37652
+17,"Bonaparte's Gull",TRUE,44.80,7.14,56670
+18,"Red-headed Woodpecker",TRUE,41.80,11.32,65054
+19,"Magnificent Frigatebird",TRUE,33.20,10.04,26189
+20,"Common Grackle",FALSE,19.20,10.65,26742
+21,"Northern Rough-winged Swallow",FALSE,18.80,8.19,27934
+22,"Muscovy Duck",FALSE,38.40,7.99,14724
+23,"Black and White Warbler",FALSE,48.90,9.98,9244
+24,"Sharp-shinned Hawk",FALSE,43.90,12.25,2494
+25,"Eurasian Jay",TRUE,37.60,11.78,19623
+26,"Wood Thrush",TRUE,11.40,12.27,14855
+27,"Grey Gull",TRUE,24.30,5.34,26910
+28,"Northern Flicker",FALSE,18.40,11.01,68245
+29,"Spotted Sandpiper",TRUE,33.60,5.06,90041
+30,"Blackpoll Warbler",FALSE,44.20,8.22,21338
+31,"Snowy Egret",TRUE,23.60,8.46,45272
+32,Veery,TRUE,38.40,9.10,85336
+33,"Wilson's Warbler",FALSE,45.40,14.14,21054
+34,"Carolina Wren",FALSE,28.60,9.00,85138
+35,"Boreal Chickadee",TRUE,21.60,13.04,43498
+36,"Common Ground Dove",FALSE,16.80,8.49,87172
+37,"Red-tailed Hawk",FALSE,36.00,7.92,98141
+38,"Great White Egret",FALSE,16.20,7.60,9812
+39,"Fox Sparrow",FALSE,27.20,13.43,42804
+40,"Great Blue Heron",FALSE,44.40,7.15,64233
+41,"Palm Warbler",FALSE,29.80,13.90,42491
+42,Merlin,FALSE,34.00,6.46,97083
+43,"Pine Grosbeak",TRUE,22.40,14.42,47087
+44,Osprey,FALSE,49.70,5.96,39583
+45,"Rock Wren",FALSE,45.20,9.17,95266
+46,"Common Tern",TRUE,19.40,14.85,25629
+47,"Canada Goose",FALSE,33.30,6.71,2510
+48,Mallard,FALSE,15.10,8.83,13637
+49,"Eurasian Magpie",TRUE,34.00,8.59,13394
+50,"Downy Woodpecker",FALSE,42.60,10.93,40669
+51,"Yellow-Rumped Warbler",FALSE,34.20,11.94,94137
+52,"Royal Tern",FALSE,35.70,13.39,3519
+53,Killdeer,FALSE,16.00,13.71,6176
+54,"Northern Parula",FALSE,35.20,14.93,26736
+55,"Dolphin Gull",TRUE,37.00,11.15,79286
+56,"Red-breasted Nuthatch",FALSE,35.60,12.96,52448
+57,"Burrowing Owl",FALSE,46.40,12.73,23701
+58,"Green-winged Teal",TRUE,34.90,13.72,9390
+59,"Eastern Pheobe",FALSE,27.50,8.45,53794
+60,"American Oystercatcher",FALSE,11.10,6.73,97534
+61,"Short-tailed Hawk",FALSE,35.10,6.07,50201
+62,"Wilson's Plover",FALSE,23.90,7.69,2529
+63,"Silver Gull",TRUE,34.60,6.06,82999
+64,"House Sparrow",FALSE,10.40,14.96,43789
+65,"Kirtland's Warbler",FALSE,29.90,6.80,3258
+66,"Rose-breasted Grosbeak",FALSE,47.50,5.03,39173
+67,Sanderling,TRUE,46.20,6.75,19849
+68,"Black-capped Chickadee",TRUE,36.40,14.38,22704
+69,"Eastern Kingbird",FALSE,48.40,13.87,4777
+70,"Laughing Gull",FALSE,29.20,12.73,44168
+71,Peacock,FALSE,36.90,7.95,89580
+72,"Swainson's Warbler",FALSE,32.10,8.46,22707
+73,"Common Snipe",TRUE,39.70,14.06,34114
+74,"Stellar's Jay",FALSE,31.30,10.24,63762
+75,"Cactus Wren",FALSE,16.50,12.28,17518
+76,Canvasback,TRUE,20.40,14.90,85237
+77,"Great-crested Flycatcher",FALSE,32.20,13.14,53383
+78,"Northern Goshawk",FALSE,44.60,11.81,78469
+79,"Bald Eagle",FALSE,41.10,9.23,8608
+80,"House Wren",FALSE,40.30,7.85,42233
+81,"White-breasted Nuthatch",TRUE,11.40,14.29,80913
+82,"Cinnamon Teal",TRUE,48.80,9.10,64965
+83,"Painted Bunting",FALSE,43.40,10.74,26487
+84,"Reddish Egret",TRUE,35.90,14.26,90875
+85,"Brown-header Cowbird",TRUE,19.20,14.57,88708
+86,"Eastern Screech Owl",FALSE,49.20,10.51,52207
+87,"Boat-tailed Grackle",TRUE,40.20,5.58,8461
+88,"Purple Martin",FALSE,24.20,7.89,56043
+89,"Song Thrush",TRUE,27.60,11.19,76175
+90,"Turkey Vulture",FALSE,37.30,9.54,10819
+91,"Shoirt-eared Owl",TRUE,15.20,7.55,11779
+92,"Canada Jay",FALSE,30.70,10.75,30481
+93,"Common Yellowthroat",FALSE,33.00,5.72,82075
+94,"Boreal Owl",TRUE,22.70,14.40,83018
+95,"Hooded Warbler",FALSE,33.10,8.05,92767
+96,Gadwall,TRUE,38.40,13.60,90126
+97,"Indigo Bunting",FALSE,28.60,6.50,35484
+98,"Kentucky Warbler",FALSE,10.90,10.23,24143
+99,"Snowy Owl",FALSE,17.60,14.35,63169
+100,"Blue-grey gnatcatcher",FALSE,26.00,13.31,52419
+101,"Ring-billed Gull",FALSE,24.20,7.46,94275
+102,"Black Swan",FALSE,25.30,14.28,57902
+103,"Blue Jay",FALSE,32.10,11.43,81555
+104,"Yellow-eyed Vireo",FALSE,36.10,5.03,47186
+105,Godwit,TRUE,27.20,8.22,95795
+106,"Summer Tanager",FALSE,20.30,13.46,44000
+107,"House Finch",FALSE,39.00,6.35,49370
+108,"Swallow-tailed Kite",FALSE,45.60,13.37,44174
+109,"Common Gull",FALSE,22.70,5.36,15415
+110,"Tufted Titmouse",FALSE,28.30,7.06,83152
+111,"Bohemian Waxwing",FALSE,49.50,10.66,86289
+112,"Turquoise Jay",FALSE,10.30,6.14,90683
+113,"Semipalmated Plover",FALSE,46.70,14.98,89133
+114,"Long-eared Owl",TRUE,39.30,11.09,92319
+115,"Cape May Warbler",FALSE,11.40,14.83,55920
+116,"Cattle Egret",TRUE,29.50,11.37,45852
+117,"Black Skimmer",TRUE,42.40,12.25,15584
+118,"Mississippi Kite",FALSE,37.70,11.08,31793
+119,"American Kestrel",FALSE,12.10,8.49,89410
+120,"Purple Sandpiper",FALSE,11.30,5.51,100401
+121,"Cooper's Hawk",FALSE,33.70,9.59,96220
+122,"American Woodcock",TRUE,26.30,8.43,86142
+123,"Sedge Wren",TRUE,20.90,6.75,50625
+124,"Northern Pintail",TRUE,39.50,10.61,90275
+125,"Eurasian Eagle Owl",FALSE,32.80,13.78,44719
+126,"Black Vulture",FALSE,43.70,14.66,44145
+127,"Red-bellied Woodpecker",FALSE,36.80,6.91,98832
+128,"Dark-eyed Junco",FALSE,35.10,6.80,87910
+129,"Common Buzzard",TRUE,13.20,5.29,92419
+130,"Tricolored Heron",FALSE,28.60,5.50,38978
+131,"Grasshopper Sparrow",FALSE,38.00,13.28,33601
+132,"European Herring Gull",FALSE,44.90,6.32,57815
+133,"Barn Swallow",TRUE,46.90,10.99,45722
+134,"Red-eyed Vireo",FALSE,29.80,14.15,22914
+135,"Monk Parakeet",FALSE,25.20,10.60,24034
+136,"Acadian Flycatcher",FALSE,48.40,14.86,89059
+137,"Ivory Gull",FALSE,40.50,5.45,53423
+138,"Rock Dove",FALSE,14.50,9.36,62520
+139,"Little Blue Heron ",FALSE,25.00,10.20,8015
+140,"Evening Grosbeak",FALSE,21.80,14.56,45059
+141,"Ruby-Throated Hummingbird",FALSE,24.90,13.50,80984
+142,"Swainson's Hawk",FALSE,17.70,9.73,16010
+143,"Hooded Crow",TRUE,44.60,10.36,55019
+144,"Northern Harrier",FALSE,31.40,6.51,88202
+145,Ovenbird,FALSE,16.70,9.21,47866
+146,"Northern Hawk Owl",FALSE,45.30,9.56,53870
+147,"Arctic Tern",TRUE,23.40,13.72,84717
+148,"Rock Sparrow",TRUE,33.70,10.09,17960
+149,"Black-bellied whistling duck",TRUE,17.70,6.87,50619
+150,"Blue-winged Teal",FALSE,22.80,14.04,6301
+151,"Fish Crow",FALSE,48.00,11.86,41424
+152,"Brown Thrasher",TRUE,33.50,14.51,57032
+153,"Orchard Oriole",FALSE,38.40,9.83,71429
+154,"Ash-throated Flycatcher",FALSE,10.80,7.06,78941
+155,"Mourning Dove",FALSE,32.70,8.69,72340
+156,"White-throated Sparrow",FALSE,20.70,5.24,76883
+157,"Cedar Waxwing",FALSE,23.40,14.14,32507
+158,"Ruby-crowned Kinglet",FALSE,11.00,7.20,72674
+159,"American Crow",FALSE,17.20,5.15,33384
+160,Cardinal,FALSE,40.70,11.95,28787
+161,"Scarlet Tanager",FALSE,33.10,13.94,95642
+162,"Brown Creeper",TRUE,46.70,9.66,15887
+163,"Baltimore Oriole",FALSE,19.70,7.71,32121
+164,"Green Heron",FALSE,20.20,12.86,17510
+165,"Roseate Spoonbill",FALSE,11.20,9.78,6144
+166,"American Goldfinch",FALSE,42.60,7.04,33623
+167,"Black-tailed Gull",FALSE,18.40,9.17,8870
+168,"Barred Owl",FALSE,23.70,11.33,33119
+169,"Chuck-will's Widow",FALSE,18.30,14.26,35358
+170,"Piping Plover",FALSE,25.40,9.70,92099
+171,"Green Jay",FALSE,13.20,11.99,51054
+172,"Mute Swan",FALSE,38.20,9.34,91852
+173,"Purple Finch",FALSE,30.80,9.10,34030
+174,"Eastern Bluebird",FALSE,17.90,9.23,76625
+175,Flamingo,FALSE,19.40,13.53,93052
+176,"Wood Duck",FALSE,24.50,8.60,77759
+177,"Lousiana Waterthrush",FALSE,49.20,12.26,44103
+178,"Euopean Starling",FALSE,49.40,8.71,40908
+179,"Carolina Chickadee",FALSE,23.80,7.54,42939
+180,"Northern Mockingbird",FALSE,30.40,11.13,78644
+181,"Great Horned Owl",FALSE,13.00,11.97,84926
+182,Limpkin,FALSE,45.90,12.67,67041
+183,"Blue Grosbeak",FALSE,18.50,5.91,38300
+184,"Warblering Vireo",FALSE,27.40,11.64,38595
+185,"Florida Scrub Jay",FALSE,13.60,11.00,79322
+186,"American Redstart",FALSE,14.40,7.83,56631
+187,Raven,FALSE,17.80,13.06,52396
+188,"Ruddy Turnstone",TRUE,21.50,12.00,73980
+189,"Eurasian Wren",TRUE,38.10,7.51,40898
+190,"Nanday Parakeet",FALSE,10.30,7.35,67237
+191,"American Robin",FALSE,31.90,11.95,19099
+192,"Scissor-tailed Flycatcher",TRUE,30.90,6.91,5045
+193,"Frankilin's Gull",TRUE,28.60,9.82,59886
