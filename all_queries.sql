@@ -237,12 +237,12 @@ WHERE
 
 --   --------------------------------Break-------------------------------------
 
--- Show blue jay observation counts per year in Maine.
+-- Show total bird observation counts per year in Maine.
 
 /*
 SELECT 
     YEAR(o.observation_date) AS observation_year,
-    SUM(o.species_count) AS blue_jay_number
+    SUM(o.species_count) AS total_bird_numbers
 FROM
     observations o
         JOIN
@@ -254,3 +254,24 @@ WHERE
 GROUP BY observation_year
 ORDER BY observation_year;
 */
+
+-- ----------------------------------Break---------------------------------------
+
+-- Find all jay counts per year.
+
+/*
+SELECT 
+    YEAR(o.observation_date) AS observed_year,
+    s.name,
+    SUM(o.species_count) AS number_jays
+FROM
+    observations o
+        JOIN
+    bird_species s ON o.bird_id = s.id
+WHERE
+    s.name LIKE '%jay%'
+GROUP BY observed_year , s.name
+ORDER BY observed_year , number_jays DESC;
+*/
+
+
