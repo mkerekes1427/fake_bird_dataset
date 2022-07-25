@@ -1,6 +1,7 @@
 -- Get the count of observations during each season using a CTE.
 
-/* with seasons as (
+/*
+with seasons as (
 SELECT 
     observations.*,
     CASE
@@ -52,7 +53,8 @@ order by num_observations DESC;
 
 -- Find the count of rose-breasted grobseaks (one of my favorites)
 
-/* SELECT 
+/*
+SELECT 
     s.name, SUM(o.species_count) AS total_observations
 FROM
     observations o
@@ -67,7 +69,8 @@ GROUP BY s.name;
 
 -- Find the number of some birds of prey. (Not all hawks have the name "hawk" so some will be left out).
 
-/* SELECT 
+/*
+SELECT 
     CASE
         WHEN s.name LIKE '%hawk%' THEN 'Hawk'
         WHEN s.name LIKE '%owl%' THEN 'Owl'
@@ -86,6 +89,7 @@ FROM
     bird_species s ON o.bird_id = s.id
 GROUP BY raptor_category
 ORDER BY num_observations DESC;
+
 */
 
 -- ------------------------------------Break------------------------------------------- --
@@ -108,8 +112,8 @@ LIMIT 5;
 -- ------------------------------- Break--------------------------------------------- ---
 
 -- Find the number of endangered birds in the west (Only 41 states in dataset.)
-
-/*SELECT 
+/*
+SELECT 
     COUNT(DISTINCT s.id) AS num_species_endangered
 FROM
     observations o
@@ -155,8 +159,8 @@ FROM
 WHERE
     bird_rank = 1
     order by state;
-    
 */
+
 
 -- --------------------------------------- Break --------------------------------------
 
@@ -187,7 +191,7 @@ WHERE
 -- ------------------------------------------Break--------------------------------------- --
 
 -- Find the total number of birds that were heard but not photographed, photographed but not heard,
--- photographed and heard, and neither photographed or heard.
+-- photographed and heard, and neither photographed nor heard.
 
 /*
 SELECT 
@@ -206,13 +210,13 @@ FROM
     observations
 GROUP BY observation_category
 ORDER BY num_observed DESC;
-*/
 
+*/
 --  -----------------------------Break-------------------------------------
 
 -- Find total number of birds photographed per camera.
 
-/* 
+ /*
 SELECT 
     camera, SUM(species_count) num_photographed
 FROM
@@ -273,5 +277,4 @@ WHERE
 GROUP BY observed_year , s.name
 ORDER BY observed_year , number_jays DESC;
 */
-
 
