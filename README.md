@@ -9,3 +9,6 @@ There are three tables: observations, bird_species, and areas. The observations 
 The observations table had close to 8400 records, with 301 unique observation ids.
 
 I'd like to shoutout Alex the Analyst and his YouTube channel for inspiring me to have the idea of writing my own MySQL scripts for the sake of portfolio experience.
+
+Here is the link to my YouTube video showing the output of all the queries:
+https://www.youtube.com/watch?v=a2iXTNDU5p8
